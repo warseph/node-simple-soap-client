@@ -1,0 +1,38 @@
+{
+  "name": "simple-soap-client",
+  "version": "0.0.1",
+  "description": "Extremely simple (non standard) SOAP client for nodejs",
+  "keywords": [
+    "soap",
+    "wsdl",
+    "web-services"
+  ],
+  "main": "./lib/simple-soap-client",
+  "author": {
+    "name": "Ezequiel Rabinovich",
+    "email": "erabinovich@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+    "jsontoxml": "0.0.2",
+    "node-expat": "1.6.0"
+  },
+  "homepage": "https://github.com/harrenmedia/simple-soap-client",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/harrenmedia/simple-soap-client.git"
+  },
+  "_id": "simple-soap-client@0.0.1",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.4",
+  "_nodeVersion": "v0.6.12",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "65aa369a1e8a725424774bba54688e2104704737"
+  },
+  "_from": "simple-soap-client@0.0.1"
+}
