@@ -16,6 +16,7 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
+    "async": "0.1.22",
     "jsontoxml": "0.0.2",
     "node-expat": "1.6.0"
   },
