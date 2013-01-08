@@ -1,6 +1,6 @@
 {
   "name": "simple-soap-client",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Extremely simple (non standard) SOAP client for nodejs",
   "keywords": [
     "soap",
